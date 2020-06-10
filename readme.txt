@@ -3,4 +3,4 @@ Git is free sortware.
 Git is a distributed version control system.
 Git is free software under the GPL.
 Git is very nice.
-Git tracks changes.
+Git tracks changes of files.
