@@ -6,8 +6,12 @@ Git is very nice.
 Git tracks changes of files.
 Create a new branch is quick.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Create a new branch is quick and simple.
 
 =======
 Create a new branch is quick and simple.
 >>>>>>> feature1
+=======
+Create a new branch is quick and simple.
+>>>>>>> dev
